@@ -1,0 +1,5 @@
+Implementação, em VHDL, das instruções MIPS: ADDU, ADDIU, SUBU, ORI, LW, LUI, SLL, SRL, SLT, SW, JR, BEQ
+
+---
+
+Trabalho de Arquitetura de Computadores, UNISC 2011/2
